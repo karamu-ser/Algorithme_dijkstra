@@ -1,6 +1,6 @@
 SRCS = $(wildcard *.c)
 OBJ = $(SRCS:.c=.o)
-NAME = dijkstra
+NAME = dijkstra_prog
 CFLAGS = -Wall -Wextra -Werror
 CC = gcc
 RM = rm -f
