@@ -61,4 +61,4 @@ gcc -o dijkstra dijkstra.c
 ```
 
 ### exemple d'execution
-![exemple](/Algorithme_dijkstra/exemple_execution.png)
+![exemple](/exemple_execution.png)
