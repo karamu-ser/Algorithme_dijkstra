@@ -53,7 +53,7 @@ Le programme affiche l'état du graphe à chaque itération de l'algorithme, y c
 Pour compiler le programme, utilisez la commande suivante dans un terminal, en supposant que vous avez installé un compilateur C comme `gcc` :
 
 ```bash
-gcc -o dijkstra dijkstra.c
+make
 ```
 ### executer
 ```bash
