@@ -9,7 +9,6 @@ Ce projet implémente l'algorithme de Dijkstra pour calculer les plus courts che
 - [Structure du Code](#structure-du-code)
 - [Compilation et Exécution](#compilation-et-exécution)
 - [Exemple](#exemple)
-- [Contributeurs](#contributeurs)
 
 ## Description
 
@@ -60,5 +59,5 @@ make
 ./dijkstra_prog 
 ```
 
-### exemple d'execution
+## exemple
 ![exemple](/exemple_execution.png)
