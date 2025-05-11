@@ -54,10 +54,10 @@ Pour compiler le programme, utilisez la commande suivante dans un terminal, en s
 ```bash
 make
 ```
-### executer
+### execution
 ```bash
 ./dijkstra_prog 
 ```
 
-## exemple
+### exemple
 ![exemple](/exemple_execution.png)
